@@ -1,5 +1,6 @@
-package sevket;
+package necati;
 
 public class Task1 {
+
 
 }

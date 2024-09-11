@@ -1,5 +1,4 @@
-package sevket;
+package nadia;
 
 public class Task1 {
-
 }

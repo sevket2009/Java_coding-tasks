@@ -1,5 +1,4 @@
-package sevket;
+package refianur;
 
 public class Task1 {
-
 }
