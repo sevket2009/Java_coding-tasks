@@ -1,5 +1,4 @@
-package sevket;
+package can;
 
 public class Task1 {
-
 }
