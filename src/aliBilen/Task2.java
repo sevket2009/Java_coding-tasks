@@ -4,6 +4,7 @@ public class Task2 {
 
     public static void main(String[] args) {
 
+
         OddEvenNumber(6);
 
     }
@@ -16,6 +17,6 @@ public class Task2 {
         }
         if (num % 2 == 0) {
             System.out.println(num+ " is Even number");
-        }
+
     }
 }
