@@ -23,7 +23,7 @@ public class Finra {
 
 
 //Solution 2)
-/*
+
             for (int i = 1; i <= 30; i++) {
                 String output = "";
 
@@ -36,7 +36,7 @@ public class Finra {
 
                 System.out.println(output.isEmpty() ? i : output);
             }
-*/
+
 
 
 
