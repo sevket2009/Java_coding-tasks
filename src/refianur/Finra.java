@@ -16,7 +16,7 @@ public class Finra {
                 System.out.println(i);
             }
         }
-
+//
     }
 /*
     public static void Finra(int num){
