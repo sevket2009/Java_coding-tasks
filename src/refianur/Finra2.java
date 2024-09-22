@@ -1,9 +1,8 @@
 package refianur;
 
-public class Finra {
-
+public class Finra2 {
     public static void main(String[] args) {
-        // Finra(15);
+
 
         for(int i = 1; i <= 15; i++) {
             if(i % 3 == 0 && i % 5 == 0 ) {
@@ -16,17 +15,5 @@ public class Finra {
                 System.out.println(i);
             }
         }
-
     }
-/*
-    public static void Finra(int num){
-        for(int i = 1; i <= num; i++ ) {
-            System.out.print(( i % 15 == 0 ? "FINRA" : i % 3 == 0 ? "FIN" : i % 5 == 0 ? "RA" : i) +" ");
-        }
-    }
-
- */
 }
-
-
-
