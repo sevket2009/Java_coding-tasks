@@ -4,7 +4,7 @@ public class Finra {
 
     public static void main(String[] args) {
         // Finra(15);
-
+        //new
         for(int i = 1; i <= 15; i++) {
             if(i % 3 == 0 && i % 5 == 0 ) {
                 System.out.println("FINRA");
@@ -16,7 +16,6 @@ public class Finra {
                 System.out.println(i);
             }
         }
-//
     }
 /*
     public static void Finra(int num){
