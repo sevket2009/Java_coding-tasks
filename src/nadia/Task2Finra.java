@@ -1,6 +1,5 @@
 package nadia;
 
-
 public class Task2Finra {
     public static void main(String[] args) {
         for (int i = 1; i <= 30; i++) {
