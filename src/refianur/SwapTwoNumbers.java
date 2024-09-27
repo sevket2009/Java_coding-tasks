@@ -14,11 +14,10 @@ public class SwapTwoNumbers {
         System.out.println("a = " + a);
         System.out.println("b = " + b);
 
-
-
     }
 }
 
 /*
     Swap two int variables' values without using a third variable
+    Swap two numbers" ifadesi, iki sayının yerlerini değiştirmek anlamına gelir.
  */
