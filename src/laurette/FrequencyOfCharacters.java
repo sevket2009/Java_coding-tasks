@@ -4,7 +4,7 @@ public class FrequencyOfCharacters {
 
     public static void main(String[] args) {
 
-         frequencyOfCharacters("AAABBCDD");
+         frequencyOfCharacters("AAABBCDD");//Example
 
     }
 
