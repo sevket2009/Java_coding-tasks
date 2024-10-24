@@ -6,10 +6,7 @@ public class ReverseInt {
         System.out.println(reverse(-35));
         System.out.println(reverse(751));
         System.out.println(reverse(-123));
-
     }
-
-
     public static int reverse(int num){//
         String strNum = ""+Math.abs(num);//absolute value of a number
         String reverse = "";
@@ -19,7 +16,6 @@ public class ReverseInt {
         if(num>0){
           return  Integer.parseInt(reverse);
         }
-
         return -(Integer.parseInt(reverse));
     }
 
